@@ -1,4 +1,4 @@
-package StudentManager;
+package StudentManagement;
 
 public class UniStudent extends Student{
     private double diemLuanVan;

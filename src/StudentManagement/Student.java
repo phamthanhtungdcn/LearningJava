@@ -1,4 +1,4 @@
-package StudentManager;
+package StudentManagement;
 
 public abstract class Student {
     private String studentId;

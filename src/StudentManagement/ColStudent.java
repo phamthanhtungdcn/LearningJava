@@ -1,4 +1,4 @@
-package StudentManager;
+package StudentManagement;
 
 public class ColStudent extends Student{
     private double diemDoAn;
