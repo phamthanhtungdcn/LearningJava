@@ -71,7 +71,7 @@ public class Library {
                 book.setDaChoMuon(false);
                 System.out.println(member.getTen() + " da tra thanh cong sach: " + book.getTieuDe());
             } else {
-                System.out.println("Sach '" + book.getTieuDe() + "' hien tai daang co san trong thu vien, khong the tra.");
+                System.out.println("Sach '" + book.getTieuDe() + "' hien tai dang co san trong thu vien, khong the tra.");
             }
         }
     }
